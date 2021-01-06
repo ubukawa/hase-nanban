@@ -1,6 +1,6 @@
 # hase-nanban
 A developer friendly UNVT Dockerfile based on Ubuntu/Intel.  
-unvt/nanban was slightly modified so that it run hasekura
+unvt/nanban was slightly modified so that it runs hasekura
 
 # use
 ```zsh
