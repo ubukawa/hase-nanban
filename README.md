@@ -8,7 +8,7 @@ docker rmi hase-nanban
 git clone https://github.com/ubukawa/hase-nanban  
 cd hase-nanban  
 docker build -t hase-nanban .  
-docker run -it --rm -v ${PWD}:/data hase-nanban  
+docker run -it --rm -v ${PWD}:/data -p 8836:8836 hase-nanban  
 
 ```
 
