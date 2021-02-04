@@ -38,6 +38,7 @@ RUN apt-get update&&\
     sqlite3\
     tmux\
     vim\
+    xvfb\
     yarn\
     zip\
     zlib1g-dev&&\ 
