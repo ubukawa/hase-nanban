@@ -12,3 +12,8 @@ docker run -it --rm -v ${PWD}:/data -p 8836:8836 hase-nanban
 
 ```
 
+
+# use  
+x server is needed.  
+https://github.com/maptiler/tileserver-gl/issues/255
+
